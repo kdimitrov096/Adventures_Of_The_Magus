@@ -1,0 +1,12 @@
+Collectables
+Game
+Game.ReaderAndWriter
+Game.SaveAndLoad
+Ghostly_Objects
+GUI
+Hero
+Hero.Projectiles
+Hero.Spells
+Mobs
+PolygonEditor
+Sounds
